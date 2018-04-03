@@ -54,7 +54,6 @@ namespace Meme_L_O_R_D_Z___Forms
             this.printPreviewDialog1.Show();           
         }
 
-
         private void printPreviewDialog1_Load(object sender, EventArgs e)
         {
 
