@@ -223,7 +223,6 @@ namespace Meme_L_O_R_D_Z___Forms
                 adpt.Fill(dset);
                 ViewCart.DataSource = dset.Tables[0];
             }
-
         }
     }
 }
