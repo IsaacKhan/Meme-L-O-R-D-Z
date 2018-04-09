@@ -100,7 +100,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.ViewInvoice)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.form4BindingSource)).EndInit();
             this.ResumeLayout(false);
-
         }
 
         #endregion
