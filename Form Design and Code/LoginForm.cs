@@ -62,7 +62,6 @@ namespace Meme_L_O_R_D_Z___Forms
             }
             else
                 MessageBox.Show("Wrong username or password");
-
         }
 
         private void CreateAccountButton_Click(object sender, EventArgs e)
