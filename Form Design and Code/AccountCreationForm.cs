@@ -97,8 +97,6 @@ namespace Meme_L_O_R_D_Z___Forms
                 //LoginForm f1 = new LoginForm();
                 //f1.ShowDialog();
             }
-
-
         }
 
         private void CancelButton_Click(object sender, EventArgs e)
