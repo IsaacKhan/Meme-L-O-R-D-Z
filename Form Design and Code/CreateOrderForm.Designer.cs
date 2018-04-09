@@ -150,7 +150,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.ViewCart)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
-
         }
 
         #endregion
